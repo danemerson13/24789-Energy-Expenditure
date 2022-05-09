@@ -2,6 +2,7 @@
 Estimating Energy Expenditure from Wearable Sensors using CNN and LSTM
 
 (c) Mikayla Schneider, Lauren Parola, Daniel Emerson
+
 This is a course project from 24-789 Deep Learning for Engineers, at Carnegie Mellon University. 
 
 Abstract:
